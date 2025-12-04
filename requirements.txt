@@ -1,3 +1,4 @@
 polars
 numpy
 scikit-learn
+flask
